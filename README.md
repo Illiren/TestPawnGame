@@ -9,9 +9,12 @@
 
 ![name](./testrun.gif)
 
+## Документация, просто попробовать:
+https://illiren.github.io/TestPawnGame/
 
 
-## Зависимости
+
+### Зависимости
 1. A C++20 compiler. Following compilers should work:
   * [gcc 10+](https://gcc.gnu.org/)
 
@@ -27,3 +30,7 @@
 
  $ cmake --build . 
  $ make
+
+
+#### Ресурсы
+* [Шрифт XKCD](https://github.com/ipython/xkcd-font)
